@@ -66,10 +66,8 @@ Each game provides **clear instructions and rules** to ensure players understand
    git clone https://github.com/yourusername/Game-Centre.git
    cd Game-Centre
 ```
-
 ### 2. Compile the Program:
     gcc gamecentre.c -o gamecentre
-    
 ### 3. Run the Program:
    ```bash
   ./gamecentre       # Mac / Linux
@@ -77,3 +75,11 @@ gamecentre.exe     # Windows
 ```
 - The program will automatically create users.txt to save user profiles and game data.
 - Follow the on-screen menu to play games, view leaderboard, or check personal details.
+
+  ---
+  ## 👥 Contributors
+
+- [Ayush Chhabra](https://github.com/ayushchhabra30 )
+- [Akshara Agarwal](https://github.com/Akshara234-source)
+- Rashi Rajput
+
