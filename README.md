@@ -1,4 +1,4 @@
-# 🎮 Game Centre
+ <h1 align="center"> 🎮 Game Centre</h1>
 
 Welcome to **Game Centre**, a fun and interactive platform developed in **C language**, where users can explore a variety of **text-based games**, track their **achievements**, and enjoy an engaging terminal-based gaming experience!
 
@@ -30,14 +30,15 @@ Options include starting a game, viewing the leaderboard, checking personal stat
 ### 3️⃣ Enhanced Gameplay Features
 - 💡 **Hint System** – Offers hints when requested.  
 - ⏱️ **Timer** – Adds time-based challenges to certain games.  
-- 🏅 **Badges** – Players earn badges for their achievements.  
-- 📊 **Statistics** – Displays a record of games won and lost.
+- 🏅 **Badges** – Earn Bronze, Silver or Golden badges based on performance.  
+- 📊 **Statistics** – Track wins, losses and other personal game data.
 
 ---
 
 ### 4️⃣ User Score Tracking and Achievements
-High scores for each game are stored, and a **leaderboard** is displayed on request.  
-Badges mark milestones, and **achievements persist** between gaming sessions.
+- 🏆 High scores and win/loss records are stored persistently.
+- 📈 A leaderboard ranks players based on their performance.
+- 🎖️ Achievements and badges are displayed prominently for motivation
 
 ---
 
@@ -45,7 +46,6 @@ Badges mark milestones, and **achievements persist** between gaming sessions.
 Each game provides **clear instructions and rules** to ensure players understand the mechanics before starting.
 
 ---
-
 
 ## 🕹️ Games Included
 
@@ -59,11 +59,21 @@ Each game provides **clear instructions and rules** to ensure players understand
 
 ---
 
----
-
 ## 💻 How to Run
 
-1. Clone the repository:
+### 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/game-centre.git
-   cd game-centre
+   git clone https://github.com/yourusername/Game-Centre.git
+   cd Game-Centre
+```
+
+### 2. Compile the Program:
+    gcc gamecentre.c -o gamecentre
+    
+### 3. Run the Program:
+   ```bash
+  ./gamecentre       # Mac / Linux
+gamecentre.exe     # Windows
+```
+- The program will automatically create users.txt to save user profiles and game data.
+- Follow the on-screen menu to play games, view leaderboard, or check personal details.
