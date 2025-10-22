@@ -23,6 +23,8 @@ All login details are **securely stored**, ensuring privacy and allowing for eas
 The program features a visually engaging, color-coded menu for easy navigation.
 Options include starting a game, viewing the leaderboard, checking personal statistics, or exiting.
 
+![Main Menu Screenshot](screenshots/main-menu.png)
+
 ---
 
 ### 3️⃣ Enhanced Gameplay Features
