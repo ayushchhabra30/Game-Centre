@@ -21,9 +21,10 @@ All login details are **securely stored**, ensuring privacy and allowing for eas
 
 ### 2️⃣ Interactive and Color-Coded Main Menu
 The program features a visually engaging, color-coded menu for easy navigation.
-Options include starting a game, viewing the leaderboard, checking personal statistics, or exiting.
-
-![Main Menu Screenshot](screenshots/main-menu.png)
+Options include starting a game, viewing the leaderboard, checking personal statistics or exiting.
+<div align ="center">
+<img src="https://github.com/user-attachments/assets/e722c3fc-8ed0-4f3f-92ba-3d1acaa01c7e" alt="main menu">
+</div>
 
 ---
 
